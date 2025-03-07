@@ -15,6 +15,6 @@ group :test do
   gem 'rspec-core', '2.6.0'
   gem 'rspec-expectations', '2.6.0'
   gem 'rspec-mocks', '2.6.0'
-  gem 'rspec-rails', '2.6.0'
+  gem 'rspec-rails', '4.0.0'
   gem 'awesome_print'
 end
